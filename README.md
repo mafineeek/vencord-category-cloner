@@ -11,7 +11,7 @@ Follow this guide for getting set up: https://docs.vencord.dev/installing/custom
 1. Direct your terminal to the `userplugins` folder, e.g. `cd src/userplugins`. If you're confused, read the guide above
 2. Inside your terminal, run
 ```sh
-git clone https://github.com/mafineeek/vencord-category-cloner
+git clone https://github.com/mafineeek/vencord-category-cloner vencordCategoryCloner
 ```
 
 ## How to update plugins
