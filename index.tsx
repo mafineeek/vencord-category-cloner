@@ -69,7 +69,7 @@ function MakeContextCallback(name: "Channel"): NavContextMenuPatchCallback {
 export default definePlugin({
     name: "Clone Category",
     description: "This plugin adds ability to clone category channels.",
-    authors: [Devs.mafineeek],
+    authors: [{ name: "mafineeek", id: 854342480019587133n }],
     contextMenus: {
         "channel-context": MakeContextCallback("Channel")
     }
